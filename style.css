@@ -1,3 +1,7 @@
 body{
     color: #fff;
 }
+.carousel-item img{
+    height: 680px;
+    
+}
